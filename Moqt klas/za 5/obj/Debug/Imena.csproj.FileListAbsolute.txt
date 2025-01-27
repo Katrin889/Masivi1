@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\bin\Debug\za 5.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\bin\Debug\za 5.exe
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\bin\Debug\za 5.pdb
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\obj\Debug\Imena.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\obj\Debug\Imena.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\obj\Debug\za 5.exe
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\za 5\obj\Debug\za 5.pdb

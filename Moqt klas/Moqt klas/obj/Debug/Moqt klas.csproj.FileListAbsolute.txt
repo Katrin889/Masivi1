@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\bin\Debug\Moqt klas.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\bin\Debug\Moqt klas.exe
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\bin\Debug\Moqt klas.pdb
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\obj\Debug\Moqt klas.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\obj\Debug\Moqt klas.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\obj\Debug\Moqt klas.exe
+C:\Users\1409-11\Desktop\9a Katrin\Moqt klas\Moqt klas\obj\Debug\Moqt klas.pdb

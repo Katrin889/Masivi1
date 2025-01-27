@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moqt klas", "Moqt klas\Moqt klas.csproj", "{EEC7F25D-AEA5-4134-85BF-EAD3DAB6EFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imena", "za 5\Imena.csproj", "{B242A173-53DA-45E7-98AB-0D10E1C288A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC7F25D-AEA5-4134-85BF-EAD3DAB6EFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC7F25D-AEA5-4134-85BF-EAD3DAB6EFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC7F25D-AEA5-4134-85BF-EAD3DAB6EFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC7F25D-AEA5-4134-85BF-EAD3DAB6EFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B242A173-53DA-45E7-98AB-0D10E1C288A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B242A173-53DA-45E7-98AB-0D10E1C288A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B242A173-53DA-45E7-98AB-0D10E1C288A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B242A173-53DA-45E7-98AB-0D10E1C288A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C8EE2D-A159-48A0-A49C-CA9345EFE3C1}
+	EndGlobalSection
+EndGlobal
