@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\bin\Debug\pravilno reshenie.exe.config
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\bin\Debug\pravilno reshenie.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\bin\Debug\pravilno reshenie.pdb
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\obj\Debug\pravilno reshenie.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\obj\Debug\pravilno reshenie.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\obj\Debug\pravilno reshenie.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\pravilno reshenie\pravilno reshenie\obj\Debug\pravilno reshenie.pdb
